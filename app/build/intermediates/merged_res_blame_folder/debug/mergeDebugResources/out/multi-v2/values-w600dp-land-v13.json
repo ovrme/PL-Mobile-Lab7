@@ -4,7 +4,7 @@
             "outputFile": "com.example.expensetracker.app-mergeDebugResources-47:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ASUS TUF 15\\.gradle\\caches\\8.13\\transforms\\6c66cf1f23de209449f880696fc47738\\transformed\\material-1.13.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\8.13\\transforms\\6c66cf1f23de209449f880696fc47738\\transformed\\material-1.13.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

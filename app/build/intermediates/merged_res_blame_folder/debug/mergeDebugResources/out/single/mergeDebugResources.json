@@ -1,162 +1,158 @@
 [
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/layout_fragment_home.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/menu_menu_expense.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/menu/menu_expense.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xhdpi_ic_banner.png.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xhdpi\\ic_banner.png"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\drawable_ic_add_circle.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\drawable\\ic_add_circle.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/layout_item_expense.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/layout/item_expense.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\layout\\activity_login.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/layout_fragment_add.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/layout/fragment_add.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\drawable_ic_list.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\drawable\\ic_list.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xhdpi_ic_banner.png.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xhdpi/ic_banner.png"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\menu_menu_expense.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\menu\\menu_expense.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/menu_menu_bottom.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/menu/menu_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/layout_activity_expense_detail.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/layout/activity_expense_detail.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xhdpi_ic_banner_foreground.png.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xhdpi\\ic_banner_foreground.png"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\layout\\fragment_home.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/drawable_ic_list.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/drawable/ic_list.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/layout_fragment_list.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/layout/fragment_list.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/drawable_ic_add_circle.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/drawable/ic_add_circle.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\menu_menu_bottom.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\menu\\menu_bottom.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/drawable_ic_home.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/drawable/ic_home.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/color_nav_item_color.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/color/nav_item_color.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\layout_activity_signup.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\layout\\activity_signup.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/layout_activity_main.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\layout_fragment_list.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\layout\\fragment_list.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\menu_menu_main.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\menu\\menu_main.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xhdpi_ic_banner_foreground.png.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xhdpi/ic_banner_foreground.png"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\drawable_img.png.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\drawable\\img.png"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/menu_menu_main.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/menu/menu_main.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\drawable_img_1.png.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\drawable\\img_1.png"
-    },
-    {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\color_nav_item_color.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\color\\nav_item_color.xml"
-    },
-    {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\layout_fragment_add.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\layout\\fragment_add.xml"
-    },
-    {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/drawable_img.png.flat",
+        "source": "com.example.expensetracker.app-main-51:/drawable/img.png"
     },
     {
         "merged": "com.example.expensetracker.app-debug-49:/layout_activity_add_expense.xml.flat",
         "source": "com.example.expensetracker.app-main-51:/layout/activity_add_expense.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\layout_activity_add_expense.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\layout\\activity_add_expense.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/layout_activity_signup.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/layout/activity_signup.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\layout_activity_expense_detail.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\layout\\activity_expense_detail.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/layout_activity_login.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\mipmap-anydpi-v26_ic_banner.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\mipmap-anydpi-v26\\ic_banner.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/drawable_img_1.png.flat",
+        "source": "com.example.expensetracker.app-main-51:/drawable/img_1.png"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\layout_item_expense.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\layout\\item_expense.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\layout\\activity_main.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-49:\\drawable_ic_home.xml.flat",
-        "source": "C:\\Users\\ASUS TUF 15\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-51:\\drawable\\ic_home.xml"
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-anydpi-v26_ic_banner.xml.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-anydpi-v26/ic_banner.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensetracker.app-main-51:/mipmap-hdpi/ic_launcher.webp"
     }
 ]
