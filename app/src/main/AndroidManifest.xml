@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:theme="@style/Theme.ExpenseTracker"
+        android:allowBackup="true"
+        android:label="ExpenseTracker"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true">
+
+
+        <!-- Other activities (no intent-filter → android:exported not required, but optional) -->
+        <activity android:name="com.example.expensetracker.ui.ExpenseDetailActivity"
+            android:exported="false" />
+
+        <activity android:name="com.example.expensetracker.ui.AddExpenseActivity"
+            android:exported="false" />
+
+        <!-- Launcher activity - has intent-filter → MUST have android:exported -->
+        <activity
+            android:name="com.example.expensetracker.auth.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.expensetracker.auth.SignupActivity"
+            android:exported="false" />
+
+        <activity android:name="com.example.expensetracker.ui.MainActivity"
+            android:exported="false" />
+
+    </application>
+</manifest>

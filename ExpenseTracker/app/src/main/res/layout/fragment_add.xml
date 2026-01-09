@@ -1,0 +1,9 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+        <EditText android:id="@+id/etAmount" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/amount" android:inputType="numberDecimal"/>
+        <Spinner android:id="@+id/spCurrency" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <Spinner android:id="@+id/spCategory" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/etRemark" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/remark"/>
+        <Button android:id="@+id/btnSubmit" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/add_expense"/>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,29 @@
+android {
+    namespace 'com.example.expensetracker'
+    compileSdk 35 // Stable version is 35; 36 is in preview
+
+    defaultConfig {
+        applicationId 'com.example.expensetracker'
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName '1.0.0'
+
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+
+        // FIX: Swapped values corrected here
+        buildConfigField "String", "X_DB_NAME", "\"da82784b-bdb9-44e2-81d2-4ad31016...\""
+        buildConfigField "String", "API_BASE_URL", "\"https://expense-tracker-db-one.vercel.app/\""
+    }
+
+    compileOptions {
+        // Upgrade to Java 17 to fix the "obsolete" warnings you saw earlier
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    // Ensure you have this to fix the "Theme.AppCompat" crash
+    buildFeatures {
+        buildConfig = true
+    }
+}

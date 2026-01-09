@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="home">Home</string>
+    <string name="list">List</string>
+    <string name="currency">Currency</string>
+    <string name="category">Category</string>
+    <string name="remark">Remark</string>
+    <string name="amount">Amount</string>
+    <string name="created_date">Created Date</string>
+    <string name="Home">Home</string>
+    <string name="Add_expense">Add Expense</string>
+    <string name="List">List</string>
+    <string name="welcome">Welcome!</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="16dp" android:fitsSystemWindows="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://schemas.android.com/apk/res/android "> <!-- This pushes the content below the status bar -->
+
+    <TextView android:id="@+id/emailLabel" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="Email" android:textSize="18sp"
+        android:layout_marginTop="20dp" />
+
+    <EditText android:id="@+id/emailInput" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:hint="enter your email"
+        android:inputType="textEmailAddress" />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Password" android:textSize="18sp" android:layout_marginTop="16dp" />
+
+    <EditText android:id="@+id/passwordInput" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:hint="enter password"
+        android:inputType="textPassword" />
+
+    <Button android:id="@+id/loginButton" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginTop="24dp" android:text="LOGIN" />
+
+    <Button android:id="@+id/signupButton" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="SIGN UP" />
+
+</LinearLayout>

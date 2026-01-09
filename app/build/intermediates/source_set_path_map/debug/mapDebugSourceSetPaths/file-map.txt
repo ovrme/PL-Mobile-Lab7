@@ -1,0 +1,53 @@
+com.example.expensetracker.app-drawerlayout-1.1.1-0 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\076fc325450598233141183dcbbdeb74\transformed\drawerlayout-1.1.1\res
+com.example.expensetracker.app-jetified-annotation-experimental-1.4.1-1 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\14fdada0406d57fc87f072428dc02007\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.expensetracker.app-lifecycle-runtime-2.6.2-2 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\1837377ec0173b1c173374e0794eab15\transformed\lifecycle-runtime-2.6.2\res
+com.example.expensetracker.app-jetified-tracing-1.2.0-3 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\1889c410c87216b4350130099cb6d9a2\transformed\jetified-tracing-1.2.0\res
+com.example.expensetracker.app-jetified-datastore-release-4 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\1fba8a5a8571522868b0e2733cb52bf6\transformed\jetified-datastore-release\res
+com.example.expensetracker.app-lifecycle-viewmodel-2.6.2-5 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\20c368aceb5e4ee5ced38fecc492920b\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.expensetracker.app-jetified-core-common-2.0.3-6 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\2a37555c12ce3132244fa297412d7792\transformed\jetified-core-common-2.0.3\res
+com.example.expensetracker.app-jetified-emoji2-1.3.0-7 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\31f1691275e60dfb6c1dedd5ebb61779\transformed\jetified-emoji2-1.3.0\res
+com.example.expensetracker.app-core-1.15.0-8 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\36cefd0d7bd6c9c975efdc30e6ce287c\transformed\core-1.15.0\res
+com.example.expensetracker.app-jetified-core-ktx-1.15.0-9 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\3770aee84a04192380ff5d1606206ce1\transformed\jetified-core-ktx-1.15.0\res
+com.example.expensetracker.app-recyclerview-1.3.2-10 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\3f62a092ae7f91312d3b3f75f18f728b\transformed\recyclerview-1.3.2\res
+com.example.expensetracker.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-11 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\4875b67994e616a5a4c86b92254ca1d6\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.expensetracker.app-jetified-datastore-preferences-release-12 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\4b08c9634d171a359f3f8e780fb85839\transformed\jetified-datastore-preferences-release\res
+com.example.expensetracker.app-jetified-firebase-common-22.0.1-13 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\4ff3663ccf9ae2b911b13d0d696e98bc\transformed\jetified-firebase-common-22.0.1\res
+com.example.expensetracker.app-jetified-lifecycle-process-2.6.2-14 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\529313616889f75b72d7f3b5a3a9d5d0\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.expensetracker.app-jetified-viewpager2-1.1.0-beta02-15 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\5913c61a45ac79f8bba3d0e69b0fdc56\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.example.expensetracker.app-jetified-startup-runtime-1.2.0-16 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\65253306e864475e20daf2d959152ebd\transformed\jetified-startup-runtime-1.2.0\res
+com.example.expensetracker.app-material-1.13.0-17 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\6c66cf1f23de209449f880696fc47738\transformed\material-1.13.0\res
+com.example.expensetracker.app-jetified-emoji2-views-helper-1.3.0-18 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\6f535cd8d26a700b0060f82de27e10a5\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.expensetracker.app-jetified-savedstate-1.2.1-19 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\8d37432b57829512c69b271702dd70a7\transformed\jetified-savedstate-1.2.1\res
+com.example.expensetracker.app-jetified-appcompat-resources-1.7.1-20 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\8d7d8ff403f4a69e435571c8cb04b9b6\transformed\jetified-appcompat-resources-1.7.1\res
+com.example.expensetracker.app-core-runtime-2.2.0-21 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\8fd435ff4f7d4fd33afbe814c1976e77\transformed\core-runtime-2.2.0\res
+com.example.expensetracker.app-transition-1.5.0-22 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\a4746a5f177c8e5b7f9adb122a413934\transformed\transition-1.5.0\res
+com.example.expensetracker.app-browser-1.4.0-23 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\abc9fa5d6df3a823510df75dc558b553\transformed\browser-1.4.0\res
+com.example.expensetracker.app-appcompat-1.7.1-24 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\af20df7de34cb738afc1f33884db559d\transformed\appcompat-1.7.1\res
+com.example.expensetracker.app-jetified-activity-1.8.0-25 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\b06f64670d880dd80c1711968d7d60af\transformed\jetified-activity-1.8.0\res
+com.example.expensetracker.app-jetified-customview-poolingcontainer-1.0.0-26 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\b112d4d6ac941787e6d9c7bc9a871483\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.expensetracker.app-biometric-1.1.0-27 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\b25cd575f7f8bd61a230cf31ad33ade7\transformed\biometric-1.1.0\res
+com.example.expensetracker.app-jetified-play-services-basement-18.4.0-28 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\b2ffd4e08df18baa463767246abf4cd0\transformed\jetified-play-services-basement-18.4.0\res
+com.example.expensetracker.app-jetified-datastore-core-release-29 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\b3c24516af59b3c89bca25e862aad5d8\transformed\jetified-datastore-core-release\res
+com.example.expensetracker.app-jetified-profileinstaller-1.3.1-30 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\b9f7532cfb08ac1815d04ded61c9cdfc\transformed\jetified-profileinstaller-1.3.1\res
+com.example.expensetracker.app-jetified-credentials-1.5.0-31 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\be0f6e915a393aaadb458674cdd43415\transformed\jetified-credentials-1.5.0\res
+com.example.expensetracker.app-jetified-datastore-preferences-core-release-32 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\c56fa6e8b70962feb009d3e36aef32f4\transformed\jetified-datastore-preferences-core-release\res
+com.example.expensetracker.app-cardview-1.0.0-33 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\c7eb8aa9f20a5e5c927dd1a1d450617e\transformed\cardview-1.0.0\res
+com.example.expensetracker.app-fragment-1.5.7-34 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\c90c35d944add060c32717e9dbacb49f\transformed\fragment-1.5.7\res
+com.example.expensetracker.app-jetified-play-services-base-18.5.0-35 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\ca892b40d2e698f5c55bcc277aa2ac47\transformed\jetified-play-services-base-18.5.0\res
+com.example.expensetracker.app-constraintlayout-2.1.0-36 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\ce3ca7ff98b7d9d9bac8efc54e5c8eb2\transformed\constraintlayout-2.1.0\res
+com.example.expensetracker.app-dynamicanimation-1.1.0-37 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\d27c975130a16ef536b1bc84d693cbe8\transformed\dynamicanimation-1.1.0\res
+com.example.expensetracker.app-lifecycle-livedata-2.6.2-38 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\ddab3143780ff437dd5c0866abef5b97\transformed\lifecycle-livedata-2.6.2\res
+com.example.expensetracker.app-coordinatorlayout-1.1.0-39 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\df67169e942064847b5f47324ea77ec6\transformed\coordinatorlayout-1.1.0\res
+com.example.expensetracker.app-jetified-credentials-play-services-auth-1.5.0-40 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\e18700156b9d6f5ddc256c48872fa87b\transformed\jetified-credentials-play-services-auth-1.5.0\res
+com.example.expensetracker.app-jetified-play-services-auth-21.1.1-41 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\e5582f99b0b73721d6babd27e7c87e1a\transformed\jetified-play-services-auth-21.1.1\res
+com.example.expensetracker.app-lifecycle-livedata-core-2.6.2-42 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\f123d0683c3a03c8644511400333d98d\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.expensetracker.app-jetified-graphics-shapes-release-43 C:\Users\ASUS TUF 15\.gradle\caches\8.13\transforms\f28c4345b7226ba053e25b81d32df545\transformed\jetified-graphics-shapes-release\res
+com.example.expensetracker.app-pngs-44 C:\Users\ASUS TUF 15\Desktop\RUPP\3. Y3-Semester1\2. Map\ExpenseTracker\app\build\generated\res\pngs\debug
+com.example.expensetracker.app-res-45 C:\Users\ASUS TUF 15\Desktop\RUPP\3. Y3-Semester1\2. Map\ExpenseTracker\app\build\generated\res\processDebugGoogleServices
+com.example.expensetracker.app-resValues-46 C:\Users\ASUS TUF 15\Desktop\RUPP\3. Y3-Semester1\2. Map\ExpenseTracker\app\build\generated\res\resValues\debug
+com.example.expensetracker.app-updated_navigation_xml-47 C:\Users\ASUS TUF 15\Desktop\RUPP\3. Y3-Semester1\2. Map\ExpenseTracker\app\build\generated\updated_navigation_xml\debug
+com.example.expensetracker.app-packageDebugResources-48 C:\Users\ASUS TUF 15\Desktop\RUPP\3. Y3-Semester1\2. Map\ExpenseTracker\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.expensetracker.app-packageDebugResources-49 C:\Users\ASUS TUF 15\Desktop\RUPP\3. Y3-Semester1\2. Map\ExpenseTracker\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.expensetracker.app-debug-50 C:\Users\ASUS TUF 15\Desktop\RUPP\3. Y3-Semester1\2. Map\ExpenseTracker\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.expensetracker.app-debug-51 C:\Users\ASUS TUF 15\Desktop\RUPP\3. Y3-Semester1\2. Map\ExpenseTracker\app\src\debug\res
+com.example.expensetracker.app-main-52 C:\Users\ASUS TUF 15\Desktop\RUPP\3. Y3-Semester1\2. Map\ExpenseTracker\app\src\main\res

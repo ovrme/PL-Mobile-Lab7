@@ -1,0 +1,19 @@
+android {
+    // ... other config ...
+
+    // IMPORTANT: Enable BuildConfig generation
+    buildFeatures {
+        buildConfig = true
+    }
+
+    defaultConfig {
+        // ... other default configs ...
+
+        // Add this line. Use the GUID from your Postman screenshot.
+        // Note: The value must be wrapped in escaped double quotes: "\"value\""
+        buildConfigField "String", "X_DB_NAME", "\"da82784b-bdb9-44e2-81d2-4ad31016...\""
+
+        // Also ensure your API_BASE_URL is defined here if you use it in ApiClient
+        buildConfigField "String", "API_BASE_URL", "\"https://expense-tracker-db-one.vercel.app/\""
+    }
+}
